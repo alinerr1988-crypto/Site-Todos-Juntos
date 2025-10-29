@@ -1,2 +1,3 @@
 # Site Todos Juntos
-Site - Atividade
+Atividade acadêmica: criação de um site, utilizando Html, Css e Java Script.
+
